@@ -1,1 +1,3 @@
-# oop2nd_lab2
+# Lab 2
+
+Calculator
